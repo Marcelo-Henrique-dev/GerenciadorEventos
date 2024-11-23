@@ -12,10 +12,6 @@ public class Main{
     public static void main(String[] args) throws InvalidEventoTypeException, SQLException {
         int opc;
         do {
-            System.out.println("=================================");
-            System.out.println("| Projeto feito por: |");
-            System.out.println("| Marcelo Henrique | Aquiles Arruda | José Renato | Adriano Ramos |");
-            System.out.println("=================================");
             System.out.println("|======- Menu -======|");
             System.out.println("| 1 - Cadastra evento | 2 - Visualizar eventos | 3 - Editar Evento | 4 - Cancelar Evento |");
             System.out.println("| 5 - Cadastrar Cliente | 6 - Listar Clientes | 7 - Editar Cliente | 8 - Apagar Cliente |");
