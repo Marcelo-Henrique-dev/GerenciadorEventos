@@ -1,3 +1,5 @@
+package com.marcelo;
+
 import java.sql.SQLException;
 import java.util.Scanner;
 
